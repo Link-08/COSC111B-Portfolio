@@ -1,6 +1,6 @@
-# COSC111 Laboratory Activities
+# COSC111B Laboratory Activities
 
-## Lab Activity 1: Running Light
+## Lab Activity 1
 
 ### Objective
 Create a running light effect from right to left using `digitalWrite()`.
@@ -12,7 +12,7 @@ Create a running light effect from right to left using `digitalWrite()`.
 
 ---
 
-## Lab Activity 2: Brightness Control
+## Lab Activity 2
 
 ### Objective
 Enhance the output of Lab Activity 1 by adding brightness control.
@@ -24,7 +24,7 @@ Enhance the output of Lab Activity 1 by adding brightness control.
 
 ---
 
-## Lab Activity 3: Fire Detector Simulation
+## Lab Activity 3
 
 ### Objective
 Simulate a fire detector using a **photoresistor** and **temperature sensor** (substituted for a thermistor in Tinkercad).
@@ -39,7 +39,7 @@ Simulate a fire detector using a **photoresistor** and **temperature sensor** (s
 
 ---
 
-## Lab Activity 4: Light Sensor with Serial Monitor Control
+## Lab Activity 4
 
 ### Objective
 Use a **photoresistor** to detect light intensity and blink an LED when a threshold is met. The process stops when the user types `"stop"` in the **Serial Monitor**, regardless of casing.
@@ -54,7 +54,7 @@ Use a **photoresistor** to detect light intensity and blink an LED when a thresh
 
 ---
 
-## Lab Activity 5: Remote LED Control via FastAPI
+## Lab Activity 5
 
 ### Objective
 Create a circuit that allows remote LED control via a **FastAPI** connection.
@@ -72,7 +72,7 @@ Create a circuit that allows remote LED control via a **FastAPI** connection.
 
 ---
 
-## Lab Activity 6: Button-Controlled FastAPI LED
+## Lab Activity 6
 
 ### Objective
 Enhance **Lab Activity 5** by adding a circuit that sends button-press signals to **FastAPI**, controlling the LED.
@@ -88,5 +88,3 @@ Enhance **Lab Activity 5** by adding a circuit that sends button-press signals t
   - Forwards Arduino input data to **FastAPI**, triggering the LED remotely.
 
 ---
-
-This repository contains all my laboratory activities for **COSC111**, demonstrating various Arduino and Python-based microcontroller projects. 🚀
